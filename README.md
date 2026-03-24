@@ -134,15 +134,3 @@ python make_hybrid.py hello.exe logo.png start.png
 **Только для Windows.** Оба метода (BAT и EXE) ориентированы на Windows. На Linux и macOS файлы не будут исполняться.
 
 **Расширение файла.** Для PNG/BAT при запуске требуется расширение `.bat`. Для гибрида PNG/EXE расширение `.png` сохраняется, но файл запускается как EXE.
-
----
-
-## Лицензия
-
-Проект распространяется под лицензией [MIT](LICENSE).
-
----
-
-## Автор
-
-[Ваше имя](https://github.com/your-username)
